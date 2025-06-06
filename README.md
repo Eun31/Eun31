@@ -4,12 +4,9 @@
 
  <a href="https://github.com/Eun31"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEun31&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/leun31"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=leun31"/></a>
 
-
-<div align="left">
   
 <sub>**Samsung Software Academy For Youth (SSAFY)**</sub> <sub><sub>(2025.01.07 ~ ing)</sub></sub>
 <br />
-</div>
 </div>
 
  ---
@@ -18,7 +15,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eun31&theme=transparent&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
 
-<div align="left">
+<div align="right">
 
 ### MAIN STACK🛠️
 💻 Frontend

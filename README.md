@@ -1,37 +1,71 @@
+
 <div align="center">
-
-  ### 💛 Eun's GITHUB 💛
-
- <a href="https://github.com/Eun31"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEun31&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/leun31"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=leun31"/></a>
-
-  
-<sub>**Samsung Software Academy For Youth (SSAFY)**</sub> <sub><sub>(2025.01.07 ~ ing)</sub></sub>
-<br />
+  <h2>💛Eun's GITHUB💛 <sub><a href="https://solved.ac/leun331"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=leun331" style="height:20px;"></a></sub></h2>
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Eun31&show_icons=true&theme=vue&hide_border=true" width="400" height="195" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eun31&layout=compact&theme=vue&hide_border=true" width="400" height="195" /></td>
+    </tr>
+  </table>
 </div>
 
- ---
+## 💻 Tech Stack
 
-<br />
+### Backend Development
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eun31&theme=transparent&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
+### Frontend Development
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-<div align="right">
+### AI & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-### MAIN STACK🛠️
-💻 Frontend
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<br>
-🚀 Backend
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/MyBatis-DC382D?style=for-the-badge&logo=mybatis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
-<br />
-<br />
-<br />
+### Tools & APIs
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Kakao Map](https://img.shields.io/badge/Kakao%20Map-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black)
+
+---
+
+## 🎓 Education & Experience
+
+**Samsung Software Academy For Youth(SSAFY) 13기**  
+(2025.01 ~ ing)
+- Full Stack Web Development
+- Algorithm & Data Structure
+- Team Project & Collaboration
+
+---
+
+## 🚀 What I'm Working On
+
+- 🌐 **Full Stack Web Applications** with Spring Boot & Vue.js
+- 🤖 **AI Recommendation Systems** using Python
+- 📱 **Location-based Services** with Map APIs
+- 📊 **Data-driven Web Solutions**
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leeeun331@gmail.com)
+[![Notion](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://your-notion-link.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Eun31)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Eun31&color=4FC08D&style=flat-square)
+
+</div>

@@ -39,5 +39,5 @@
 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leeeun331@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)]([https://your-portfolio-link.com](https://bubbly-diagnostic-e80.notion.site/1eb52441288a800585d2f0c3bcc6ba83?source=copy_link))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://bubbly-diagnostic-e80.notion.site/1eb52441288a800585d2f0c3bcc6ba83?source=copy_link)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Eun31)
